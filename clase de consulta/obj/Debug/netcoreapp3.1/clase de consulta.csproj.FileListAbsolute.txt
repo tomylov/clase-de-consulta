@@ -1,0 +1,14 @@
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\bin\Debug\netcoreapp3.1\clase de consulta.exe
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\bin\Debug\netcoreapp3.1\clase de consulta.deps.json
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\bin\Debug\netcoreapp3.1\clase de consulta.runtimeconfig.json
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\bin\Debug\netcoreapp3.1\clase de consulta.runtimeconfig.dev.json
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\bin\Debug\netcoreapp3.1\clase de consulta.dll
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\bin\Debug\netcoreapp3.1\clase de consulta.pdb
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.AssemblyInfoInputs.cache
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.AssemblyInfo.cs
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.dll
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.pdb
+C:\Users\Navegador\source\repos\clase de consulta\clase de consulta\obj\Debug\netcoreapp3.1\clase de consulta.genruntimeconfig.cache
